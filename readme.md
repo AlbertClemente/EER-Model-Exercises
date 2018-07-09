@@ -1,3 +1,5 @@
-# BBDD - Vueling
+# BBDD - Exercicis
 
-> Git per al model EER de l'exercici de Vueling
+> Git per a: 
+-model EER de l'exercici de Vueling
+-model EER de l'exercici de Quadres

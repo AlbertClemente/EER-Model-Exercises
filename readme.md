@@ -1,11 +1,9 @@
-# BBDD - Exercicis
+# Enhanced entity–relationship model exercices - IT Academy
 
-> model EER de l'exercici de Vueling
+- Vueling EER model exercise
+- Museum EER model exercise
+- Stube EER model exercise
+- Amazon EER model exercise
+- SocialNetwork EER model exercise
 
-> model EER de l'exercici de Quadres
-
-> model EER de l'exercici de Stube
-
-> model EER de l'exercici de Amazon
-
-> model EER de l'exercici de XarxaSocial
+All exercises were done with **MySQL Workbench**.
